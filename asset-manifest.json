@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/happydrink/static/css/main.ebce302d.chunk.css",
+    "main.js": "/happydrink/static/js/main.c6764d3d.chunk.js",
+    "main.js.map": "/happydrink/static/js/main.c6764d3d.chunk.js.map",
+    "runtime~main.js": "/happydrink/static/js/runtime~main.67011007.js",
+    "runtime~main.js.map": "/happydrink/static/js/runtime~main.67011007.js.map",
+    "static/js/2.158f2d9c.chunk.js": "/happydrink/static/js/2.158f2d9c.chunk.js",
+    "static/js/2.158f2d9c.chunk.js.map": "/happydrink/static/js/2.158f2d9c.chunk.js.map",
+    "index.html": "/happydrink/index.html",
+    "precache-manifest.abf20543c330dc58943294438657952b.js": "/happydrink/precache-manifest.abf20543c330dc58943294438657952b.js",
+    "service-worker.js": "/happydrink/service-worker.js",
+    "static/css/main.ebce302d.chunk.css.map": "/happydrink/static/css/main.ebce302d.chunk.css.map",
+    "static/media/logo.svg": "/happydrink/static/media/logo.5d5d9eef.svg"
+  }
+}
